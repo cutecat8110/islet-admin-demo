@@ -1,1 +1,0 @@
-import{d as s,o as e,c as t,v as n,t as o}from"./index-BK_0Zfe2.js";const u=s({__name:"StatusTag",props:{value:{}},setup(l){return(a,r)=>(e(),t("span",{class:n(["status-tag",{"tag-good":["使用中","已完成","已校對"].includes(a.value),"tag-warn":["維護中","優先","處理中"].includes(a.value)}])},o(a.value),3))}});export{u as _};
