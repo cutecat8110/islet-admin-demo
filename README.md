@@ -21,7 +21,7 @@
 | [長表單](https://cutecat8110.github.io/islet-admin-demo/#/assets/asset-1/edit) | 分區目錄、欄位驗證、圖片預覽與未儲存提醒。 |
 | [編輯工具](https://cutecat8110.github.io/islet-admin-demo/#/components?section=rich-text) | 文字格式、同步預覽與復原；另可體驗[逐字稿校對](https://cutecat8110.github.io/islet-admin-demo/#/minutes)。 |
 
-建議依 **共用架構 → 操作列 → 長表單 → 編輯工具** 體驗。登入頁點選角色即可帶入展示帳密。資產、合約與維護為操作示例。
+建議依 **共用架構 → 操作列 → 長表單 → 編輯工具** 體驗。登入頁點選角色即可帶入帳密。資產、合約與維護為操作示例。
 
 <details>
 <summary>展示角色</summary>
