@@ -1,8 +1,8 @@
-# 嶼序後台｜後台系統與共用架構展示
+# 嶼序後台｜後台系統與共用架構
 
 `Vue 3` · `TypeScript` · `PrimeVue 4` · `Vite` · `Quill 2`
 
-以共用版型、操作列與長表單，串起資產、合約及維護流程。
+共用版型、操作列與長表單，支援資產、合約及維護管理。
 
 **[開啟 Demo](https://cutecat8110.github.io/islet-admin-demo/)** · [元件展示](https://cutecat8110.github.io/islet-admin-demo/#/components) · [設計系統](https://cutecat8110.github.io/islet-admin-demo/#/design-system)
 
