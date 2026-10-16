@@ -1,4 +1,4 @@
-# 嶼序後台｜後台系統與共用架構
+# 後台管理
 
 `Vue 3` · `TypeScript` · `PrimeVue 4` · `Vite` · `Quill 2`
 
